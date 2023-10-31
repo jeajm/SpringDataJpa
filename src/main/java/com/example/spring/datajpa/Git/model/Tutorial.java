@@ -1,4 +1,4 @@
-package com.example.spring.datajpa.model;
+package com.example.spring.datajpa.Git.model;
 
 import jakarta.persistence.*;
 
@@ -23,8 +23,7 @@ public class Tutorial {
 
     }
 
-    public Tutorial(Long id, String title, String description, boolean published) {
-        this.id = id;
+    public Tutorial(String title, String description, boolean published) {
         this.title = title;
         this.description = description;
         this.published = published;

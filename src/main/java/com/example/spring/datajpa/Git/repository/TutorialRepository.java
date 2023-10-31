@@ -1,6 +1,6 @@
-package com.example.spring.datajpa.repository;
+package com.example.spring.datajpa.Git.repository;
 
-import com.example.spring.datajpa.model.Tutorial;
+import com.example.spring.datajpa.Git.model.Tutorial;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

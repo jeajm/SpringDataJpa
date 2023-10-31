@@ -1,4 +1,4 @@
-package com.example.spring.datajpa;
+package com.example.spring.datajpa.Git;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

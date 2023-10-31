@@ -1,4 +1,4 @@
-package com.example.spring.datajpa;
+package com.example.spring.datajpa.Git;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
